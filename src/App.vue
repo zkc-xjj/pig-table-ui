@@ -1,7 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <pig-table msg="Welcome to Your Vue.js App"></pig-table>
+    <pig-table></pig-table>
   </div>
 </template>
 
@@ -17,10 +16,5 @@ export default {
 </script>
 
 <style>
-#app {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-}
+
 </style>
